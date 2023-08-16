@@ -1,1 +1,3 @@
-Go through tasks
+Go through task
+0. _putchar
+I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet games
